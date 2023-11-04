@@ -5,7 +5,7 @@ setup(
       name='clean_folder',
       version='1.1.3',
       description='Clean folder',
-      url='http://github.com/dummy_user/useful',
+      url='https://github.com/apreap1/DZ-7',
       author='Yurii',
       license='MIT',
       entry_points={
